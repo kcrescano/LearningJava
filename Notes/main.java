@@ -5,6 +5,7 @@ public class HelloWorld {
     int numOne = 1;
     char singleQuoted = 'A';
     String doubleQuoted = "A";
+    boolean true_ = true
     
     System.out.print(number);
     System.out.println()
